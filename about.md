@@ -15,3 +15,5 @@ Daftar isi:
 
 [3. Menempatkan style CSS](https://hidayatabisena.github.io/menempatkan-css-styles/ "Menempatkan style CSS")
 
+[4. Pilihan warna CSS](https://hidayatabisena.github.io/pilihan-warna-css/ "Pilihan warna CSS")
+
