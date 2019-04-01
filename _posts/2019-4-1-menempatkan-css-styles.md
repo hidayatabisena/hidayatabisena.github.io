@@ -32,7 +32,8 @@ Cara kedua:
 ```
 
 --
-Kita akan membuat file html di text editor Visual Studio Code, lalu kita coba styling dengan menggunakan CSS.
+
+Kita akan membuat file html di text editor Visual Studio Code, lalu kita coba styling dengan menggunakan CSS. Silahkan ketik html dibawah ini. 
 
 ```html
 <html lang="en">
