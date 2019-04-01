@@ -47,11 +47,8 @@ catatan:
 
 --
 
-Contoh:
-#### Memberikan border 
-element <h1> atau element html apapun di file website kita, bisa dikasih border. 
-    
-Modifikasi tag h1 di file style.css menjadi seperti ini:
+Contoh yang Border:
+Modifikasi script yang h1 di file style.css menjadi seperti ini:
 
 ```css
 h1 {
