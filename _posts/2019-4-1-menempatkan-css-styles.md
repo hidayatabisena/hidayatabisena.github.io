@@ -4,35 +4,6 @@ layout: post
 title: Menempatkan style CSS
 ---
 
-Ada beberapa cara menempatkan style CSS kedalam website kita. 
-
-Cara pertama:
-**Inline CSS**
-
-```html
-<h2 style="color: blue;">Ini H2 berwarna Biru </h2>
-<h3 style="color: red;">Ini H3 berwarna Merah </h3>
-
-<p style="color: yellow;"> Ini paragraf berwarna kuning </p>
-```
-
-Cara kedua:
-**Style Tag**
-
-```html
-<html>
-<head>
-  <title>Website Sederhana</title>
-  <style type="text/css">
-    li {
-      color: blue;
-    }
-  </style>
-</head>
-```
-
---
-
 Kita akan membuat file html di text editor Visual Studio Code, lalu kita coba styling dengan menggunakan CSS. Silahkan ketik html dibawah ini. 
 
 ```html
@@ -63,3 +34,35 @@ Simpan file tersebut dengan nama _websatu.html_
 Apabila file html tersebut kita buka, akan muncul tampilan ini:
 
 ![File websatu.html](/images/Screen%20Shot%202019-04-01%20at%2014.24.24.png "File websatu.html")
+
+
+--
+
+Nah, sekarang kita akan styling halaman html tersebut dengan CSS.
+
+Ada beberapa cara menempatkan style CSS kedalam website kita. 
+
+Cara pertama:
+**Inline CSS**
+
+```html
+<h2 style="color: blue;">Ini H2 berwarna Biru </h2>
+<h3 style="color: red;">Ini H3 berwarna Merah </h3>
+
+<p style="color: yellow;"> Ini paragraf berwarna kuning </p>
+```
+
+Cara kedua:
+**Style Tag**
+
+```html
+<html>
+<head>
+  <title>Website Sederhana</title>
+  <style type="text/css">
+    li {
+      color: blue;
+    }
+  </style>
+</head>
+```
