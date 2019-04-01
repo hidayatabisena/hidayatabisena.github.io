@@ -67,10 +67,12 @@ Cara kedua:
 </head>
 ```
 
-Cara ketiga (recommended):
+#### Cara ketiga (recommended):
 **Link Tag**
 
 Jadi file CSS nya dipisahkan dengan file HTML. Dan ini adalah cara yang paling direkomendasikan.
+
+--
 
 Mari kita praktekkan! Kita akan styling file websatu.html dengan CSS, menggunakan cara **Link Tag**.
 
