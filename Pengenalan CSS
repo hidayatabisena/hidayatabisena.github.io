@@ -50,8 +50,10 @@ Saya ingin membuat semua element H1 di HTML, berwarna biru dan ukuran font-nya 2
 Implementasinya seperti ini:
   
   ```CSS
+  h1 {
   	color: blue;
   	font-size: 24px;
+  }
   ```
 
 Lalu semua element Image, pake border berwarna kuning dengan ketebalan border 2px.
