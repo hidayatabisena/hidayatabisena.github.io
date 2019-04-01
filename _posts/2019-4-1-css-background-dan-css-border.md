@@ -47,6 +47,8 @@ catatan:
 
 --
 
+#### CSS Border
+
 Contoh yang Border:
 Modifikasi script yang h1 di file style.css menjadi seperti ini:
 
@@ -63,6 +65,18 @@ Hasilnya akan menjadi seperti ini:
 
 ![HTML Page](/images/bordercss.png "Halaman websatu.html yang telah diberi border")
 
+
+Catatan:
+Script diatas, sebenarnya bisa dibuat lebih ringkas menjadi seperti ini:
+
+```css
+h1 {
+    color: #176DB7;
+    border: 5px solid azure;
+}
+```
+
+Hasilnya akan sama saja. Tapi script-nya jadi lebih ringkas. 
 
 
 
