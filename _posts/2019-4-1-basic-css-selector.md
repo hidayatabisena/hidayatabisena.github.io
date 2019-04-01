@@ -73,7 +73,7 @@ Selanjutnya kita akan styling halaman tasklists.html melalui file task.css, meng
 
 --
 
-### Element Selector
+### 1. Element Selector
 Nama lain dari Element Selector adalah selektor tag atau tipe selector. Selektor ini akan memilih elemen berdasarkan nama Tag HTML.
 
 Tambahkan script ini pada file task.css:
@@ -88,7 +88,7 @@ Hasilnya akan seperti ini:
 ![File tasklists.html](/images/tagselector.png "Element selector pada tasklists.html")
 
 
-### ID Selector
+### 2. ID Selector
 Selector ID bersifat unik. Hanya boleh digunakan oleh satu element pada sebuah halaman web. Tapi, selektor ID boleh lebih dari satu pada satu halaman web. Selector ID ditandai dengan tanda (#).
 
 Ubah file tasklists.html di tag "li: Mengirimkan paket dokumen" menjadi seperti ini:
@@ -115,7 +115,9 @@ Hasilnya akan menjadi seperti ini:
 ![File tasklists.html](/images/idselector.png "ID selector pada tasklists.html")
 
 
-### Class Selector
+
+
+### 3. Class Selector
 Hampir sama dengan selector ID, selector Class digunakan untuk memilih elemen berdasarkan nama class yang diberikan. Selektor class ditandai dengan tanda titik "."
 
 Ubah file tasklists.html pada tag "li: Membuat laporan keuangan" dan "li: Mengisi absensi" menjadi seperti ini:
