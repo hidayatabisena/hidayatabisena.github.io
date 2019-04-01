@@ -165,7 +165,59 @@ Save files, lalu lihat hasilnya menjadi seperti ini:
 
 
 
+--
 
+Berikut adalah hasil akhir file-nya.
+
+file tasklists.html
+
+```html
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Daftar Tugas</title>
+    <link rel="stylesheet" type="text/css" href="task.css">
+</head>
+
+<body>
+    <h1>Daftar Tugas Harian</h1>
+    <ul>
+        <li class="completed">
+            <input type="checkbox" checked>Membuat laporan keuangan
+        </li>
+        <li class="completed">
+            <input type="checkbox" checked>Mengisi absensi
+        </li>
+        <li id="special">
+            <input type="checkbox">Mengirimkan paket dokumen
+        </li>
+    </ul>
+
+</body>
+
+</html>
+```
+
+--
+
+File task.css
+
+```css
+li {
+    border: 1px solid blue;
+}
+
+#special {
+    background: orange;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+```
 
 
 
