@@ -8,7 +8,7 @@ Property Background dan property Border pada CSS digunakan untuk memberikan warn
 
 Contoh:
 #### Memberikan warna background ke element <body> dan <h4>
-Silahkan buka file style.css, lalu tambahkan script ini:
+Silahkan buka file style.css, lalu modifikasi menjadi seperti ini:
 
 ```css
 h4 {
@@ -24,5 +24,20 @@ body {
 Hasilnya menjadi seperti ini:
 
 ![HTML Page](/images/backgroundcss.png "Halaman websatu.html yang telah diberi background")
+
+--
+Atau, bisa juga dengan menambahkan Image ke background body. Silahkan modifikasi tag body seperti ini:
+
+```css
+body {
+    background: url(https://img.freepik.com/free-photo/old-wooden-texture-background-vintage_55716-1138.jpg?size=626&ext=jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+```
+
+Hasilnya menjadi seperti ini:
+
+![HTML Page](/images/backgroundimagecss.png "Halaman websatu.html yang telah diberi background image")
 
 
