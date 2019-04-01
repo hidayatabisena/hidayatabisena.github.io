@@ -27,18 +27,39 @@ Ikuti langkah-langkah berikut ini:
 
 ```html
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Daftar Tugas</title>
 </head>
+
 <body>
+    <h1>Daftar Tugas Harian</h1>
+    <ul>
+        <li>
+            <input type="checkbox">Membuat laporan keuangan
+        </li>
+        <li>
+            <input type="checkbox">Mengisi absensi
+        </li>
+        <li>
+            <input type="checkbox">Mengirimkan paket dokumen
+        </li>
+    </ul>
 
 </body>
+
 </html>
 ```
 
-- Kalau sudah, tambahkan tag h1 dan ul sebagai berikut:
+- kalau sudah, buka file tasklists.html tersebu, hasilnya akan seperti ini:
+
+![File tasklists.html](/images/tasklistweb.png "File tasklists.html")
+
+
+
+
 
 
