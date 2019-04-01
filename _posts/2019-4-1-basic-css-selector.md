@@ -60,6 +60,34 @@ Ikuti langkah-langkah berikut ini:
 
 - silahkan coba ceklist daftar tugasnya, untuk memastikan bahwa input checkbox berfungsi.
 
+- Selanjutnya, masih di halaman tasklists.html. Tambahkan script berikut tepat dibawah title.
+
+```css
+<link rel="stylesheet" type="text/css" href="task.css">
+```
+
+- Script diatas untuk mengkoneksikan file css dan file html. Setelah itu kita buat file css baru dengan nama task.css
+- Simpan file task.css pada direktori yang sama dengan file tasklists.html
+
+Selanjutnya kita akan styling halaman tasklists.html melalui file task.css, menggunakan metode Element Selector, ID Selector, dan Class Selector.
+
+--
+
+#### Element Selector
+Nama lain dari Element Selector adalah selektor tag atau tipe selector. Selektor ini akan memilih elemen berdasarkan nama Tag HTML.
+
+Tambahkan script ini pada file task.css:
+```css
+li {
+    border: 2px solid blue;
+}
+```
+
+Hasilnya akan seperti ini:
+
+![File tasklists.html](/images/tagselector.png "Element selector pada tasklists.html")
+
+
 
 
 
