@@ -1,5 +1,6 @@
 ---
 published: false
+layout: post
 ---
 ## Disini kita masih belum mulai ngoding
 
@@ -67,8 +68,3 @@ Implementasinya seperti ini:
   ```
   
 Contoh-contoh lainnya, kita bahas sambil praktek di postingan-postingan selanjutnya. Yang jelas, format penulisan CSS nya yang harus diingat/dipahami.
-  
-  
-  
-
-
