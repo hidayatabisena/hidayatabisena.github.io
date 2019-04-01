@@ -31,7 +31,7 @@ Dan ini adalah halaman website yang sama, tapi udah diterapkan CSS
 Terlihat jauh berbeda bukan? Dan yang kita ubah bukanlah struktur file HTML nya, melainkan file CSS nya. 
 
 
-## Aturan Umum CSS
+## Aturan Umum CSS ##
 
 Format penulisan syntax CSS seperti ini:
 
