@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Website ini dibuat sebagai materi pendamping bagi rekan-rekan pelajar / mahasiswa yang sedang mendalami web development. 
+Konten di website ini diusahakan terus diupdate sesuai dengan progress pembelajaran. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Daftar isi:
+[1. Mulai Belajar CSS](https://hidayatabisena.github.io/menempatkan-css-styles/ "Mulai Belajar CSS")
+[2. Pengenalan CSS](https://hidayatabisena.github.io/pengenalan-css/ "Pengenalan CSS")
