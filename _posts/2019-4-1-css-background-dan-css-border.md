@@ -26,6 +26,7 @@ Hasilnya menjadi seperti ini:
 ![HTML Page](/images/backgroundcss.png "Halaman websatu.html yang telah diberi background")
 
 --
+
 Atau, bisa juga dengan menambahkan Image ke background body. Silahkan modifikasi tag body seperti ini:
 
 ```css
@@ -39,5 +40,31 @@ body {
 Hasilnya menjadi seperti ini:
 
 ![HTML Page](/images/backgroundimagecss.png "Halaman websatu.html yang telah diberi background image")
+
+catatan:
+- Untuk dapetin url yang di background, itu bisa cari gambar di google, terus copy url image-nya. 
+- Coba dihapus si "background-repeat" dan "background-size" nya. Coba bandingkan hasilnya gimana. 
+
+--
+
+Contoh:
+#### Memberikan border ke element <h1> atau element html apapun di file website kita
+    
+Modifikasi tag h1 di file style.css menjadi seperti ini:
+
+```css
+h1 {
+    color: #176DB7;
+    border-color: azure;
+    border-width: 5px;
+    border-style: solid;
+}
+```
+
+Hasilnya akan menjadi seperti ini:
+
+![HTML Page](/images/bordercss.png "Halaman websatu.html yang telah diberi border")
+
+
 
 
