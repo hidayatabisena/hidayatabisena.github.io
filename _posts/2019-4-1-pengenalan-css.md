@@ -2,7 +2,6 @@
 published: true
 layout: post
 ---
-## Disini kita masih belum mulai ngoding
 
 Poin-poin yang akan kita bahas adalah:
 1. Memahami fungsi CSS didalam Web Development.
@@ -44,7 +43,30 @@ selector {
 
 Keterangan:
 selector itu yang di HTML. Contohnya: h1, body, span, table, dsb.
-  
 property itu adalah style css yang ingin di terapkan kedalam suatu selector. Didalam suatu selector, bisa ada banyak property. 
+
+--
+
+Contoh:
+Buatlah element h1 dan image di HTML dengan ketentuan sebagai berikut:
+1. h1 berwarna biru, dan ukuran font sebesar 24 pixel
+2. image border menggunakan warna kuning dengan ketebalan border 2 pixel.
+
+Implementasinya:
+```css
+h1 {
+  color: blue;
+  font-size: 24px;
+}
+
+img {
+  border-color: yellow;
+  border-width: 2px;
+}
+```
+
+Pada postingan berikutnya akan dibahas cara menempatkan file CSS di HTML.
+
   
+ 
 
