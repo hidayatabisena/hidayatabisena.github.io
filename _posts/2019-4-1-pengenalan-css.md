@@ -21,7 +21,7 @@ Gak perlu khawatir kalau masih bingung. Nanti sambil praktek juga bakalan ketemu
 **Contoh website sebelum dan sesudah memakai CSS.**
 
 Ini adalah halaman website sebelum menggunakan CSS
-![Website tanpa CSS]({{site.baseurl}}/https://raw.githubusercontent.com/hidayatabisena/hidayatabisena.github.io/master/images/html.png)
+![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
 
 _Gambar diatas kalo kita cek source code-nya, isinya cuma file HTML._
 
