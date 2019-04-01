@@ -73,7 +73,7 @@ Selanjutnya kita akan styling halaman tasklists.html melalui file task.css, meng
 
 --
 
-#### Element Selector
+### Element Selector
 Nama lain dari Element Selector adalah selektor tag atau tipe selector. Selektor ini akan memilih elemen berdasarkan nama Tag HTML.
 
 Tambahkan script ini pada file task.css:
@@ -86,6 +86,21 @@ li {
 Hasilnya akan seperti ini:
 
 ![File tasklists.html](/images/tagselector.png "Element selector pada tasklists.html")
+
+
+### ID Selector
+Selector ID bersifat unik. Hanya boleh digunakan oleh satu element pada sebuah halaman web. Tapi, selektor ID boleh lebih dari satu pada satu halaman web. Selector ID ditandai dengan tanda (#).
+
+Ubah file tasklists.html di tag "li: Mengirimkan paket dokumen" menjadi seperti ini:
+
+```html
+        <li id="special">
+            <input type="checkbox">Mengirimkan paket dokumen
+        </li>
+```
+
+
+
 
 
 
