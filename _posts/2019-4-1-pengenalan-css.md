@@ -21,12 +21,12 @@ Gak perlu khawatir kalau masih bingung. Nanti sambil praktek juga bakalan ketemu
 **Contoh website sebelum dan sesudah memakai CSS.**
 
 Ini adalah halaman website sebelum menggunakan CSS
-![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
+![HTML Page](/images/html.png "Halaman HTML only")
 
 _Gambar diatas kalo kita cek source code-nya, isinya cuma file HTML._
 
 Dan ini adalah halaman website yang sama, tapi udah diterapkan CSS
-![Halaman Website dengan CSS]({{site.baseurl}}/https://raw.githubusercontent.com/hidayatabisena/hidayatabisena.github.io/master/images/css.png)
+![CSS Page](/images/css.png "Halaman HTML yang sudah di format menggunakan CSS")
 
 Terlihat jauh berbeda bukan? Dan yang kita ubah bukanlah struktur file HTML nya, melainkan file CSS nya. 
 
