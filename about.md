@@ -17,3 +17,6 @@ Daftar isi:
 
 [4. Pilihan warna CSS](https://hidayatabisena.github.io/pilihan-warna-css/ "Pilihan warna CSS")
 
+[5. CSS Background dan CSS Border](https://hidayatabisena.github.io/css-background-dan-css-border/ "CSS Background dan CSS Border")
+
+
