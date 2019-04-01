@@ -8,5 +8,7 @@ Website ini dibuat sebagai materi pendamping bagi rekan-rekan pelajar / mahasisw
 Konten di website ini diusahakan terus diupdate sesuai dengan progress pembelajaran. 
 
 Daftar isi:
+
 [1. Mulai Belajar CSS](https://hidayatabisena.github.io/menempatkan-css-styles/ "Mulai Belajar CSS")
+
 [2. Pengenalan CSS](https://hidayatabisena.github.io/pengenalan-css/ "Pengenalan CSS")
