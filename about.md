@@ -12,3 +12,6 @@ Daftar isi:
 [1. Mulai Belajar CSS](https://hidayatabisena.github.io/menempatkan-css-styles/ "Mulai Belajar CSS")
 
 [2. Pengenalan CSS](https://hidayatabisena.github.io/pengenalan-css/ "Pengenalan CSS")
+
+[3. Menempatkan style CSS](https://hidayatabisena.github.io/menempatkan-css-styles/ "Menempatkan style CSS")
+
