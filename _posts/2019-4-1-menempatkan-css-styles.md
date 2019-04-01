@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Pengenalan CSS
+title: Menempatkan style CSS
 ---
 
 Ada beberapa cara menempatkan style CSS kedalam website kita. 
