@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: Pengenalan CSS
 ---
 
 Poin-poin yang akan kita bahas adalah:
