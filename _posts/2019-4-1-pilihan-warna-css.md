@@ -9,7 +9,7 @@ Di contoh-contoh sebelumnya untuk pemilihan warna, kita baru menggunakan warna-w
 
 Ada beberapa cara untuk menggunakan warna di CSS:
 
-### CSS HEXADECIMAL
+### 1. CSS HEXADECIMAL
 Contoh: Warna hitam kode hexadecimal-nya adalah #000000.
 
 Ada banyak pilihan warna di CSS, dan kita tidak harus menghapal kode-kode warnanya. Kita bisa menggunakan [Color Picker Website](https://www.webfx.com/web-design/color-picker/ "Color Picker Website")
@@ -17,11 +17,11 @@ Ada banyak pilihan warna di CSS, dan kita tidak harus menghapal kode-kode warnan
 Silahkan buka website tersebut. 
 
 
-### CSS RGB
+### 2. CSS RGB
 Contoh: Warna Purple, bila ditulis dalam kode RGB akan menjadi seperti ini -> rgb(100, 0, 100);
 
 
-### CSS RGBA
+### 3. CSS RGBA
 Hampir sama dengan CSS RGB, hanya saja untuk RGBA, ada tambahan Alpha yaitu untuk transparan.
 
 contoh: warna hijau yang ditambahkan alpha transparant -> rgba(11, 99, 150, .2);
