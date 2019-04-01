@@ -43,32 +43,8 @@ selector {
 ```
 
 Keterangan:
-selector itu yang di HTML. Contohnya: "<H1>", "<body>", "<span>", "<ul>", "<table>", dsb.
+selector itu yang di HTML. Contohnya: h1, body, span, table, dsb.
   
 property itu adalah style css yang ingin di terapkan kedalam suatu selector. Didalam suatu selector, bisa ada banyak property. 
   
---  
 
-Mari kita lihat contohnya yah:
-
-Saya ingin membuat semua element H1 di HTML, berwarna biru dan ukuran font-nya 24 pixel. 
-Implementasinya seperti ini:
-  
-```CSS
-  h1 {
-  	color: blue;
-  	font-size: 24px;
-  }
-```
-
-Lalu semua element Image, pake border berwarna kuning dengan ketebalan border 2px.
-Implementasinya seperti ini:
-  
-```CSS
-  img {
-  	border-color: yellow;
-  	border-width: 2px;
-  }
-```
-  
-Contoh-contoh lainnya, kita bahas sambil praktek di postingan-postingan selanjutnya. Yang jelas, format penulisan CSS nya yang harus diingat/dipahami.
