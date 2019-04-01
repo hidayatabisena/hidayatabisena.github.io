@@ -48,7 +48,8 @@ catatan:
 --
 
 Contoh:
-#### Memberikan border ke element <h1> atau element html apapun di file website kita
+#### Memberikan border 
+element <h1> atau element html apapun di file website kita, bisa dikasih border. 
     
 Modifikasi tag h1 di file style.css menjadi seperti ini:
 
