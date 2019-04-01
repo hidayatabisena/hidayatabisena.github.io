@@ -54,10 +54,11 @@ Ikuti langkah-langkah berikut ini:
 </html>
 ```
 
-- kalau sudah, buka file tasklists.html tersebu, hasilnya akan seperti ini:
+- kalau sudah, buka file tasklists.html tersebut, hasilnya akan seperti ini:
 
 ![File tasklists.html](/images/tasklistweb.png "File tasklists.html")
 
+- silahkan coba ceklist daftar tugasnya, untuk memastikan bahwa input checkbox berfungsi.
 
 
 
