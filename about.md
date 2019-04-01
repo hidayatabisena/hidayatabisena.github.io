@@ -19,4 +19,6 @@ Daftar isi:
 
 [5. CSS Background dan CSS Border](https://hidayatabisena.github.io/css-background-dan-css-border/ "CSS Background dan CSS Border")
 
+[6. Basic CSS Selector](https://hidayatabisena.github.io/basic-css-selector/ "Basic CSS Selector")
+
 
