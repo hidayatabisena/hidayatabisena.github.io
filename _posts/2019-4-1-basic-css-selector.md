@@ -99,6 +99,24 @@ Ubah file tasklists.html di tag "li: Mengirimkan paket dokumen" menjadi seperti 
         </li>
 ```
 
+Kita boleh kasih nama lain misalnya _li id="unique"_ atau _li id="specific"_
+Terserah kita. Asal jangan ngasal ngasih nama aja. Dalam hal ini, kita kasih nama _id="special"_
+
+Sekarang kita buka file task.css, lalu tambahkan script berikut:
+
+```css
+#special {
+    background: orange;
+}
+```
+
+Hasilnya akan menjadi seperti ini:
+
+![File tasklists.html](/images/idselector.png "ID selector pada tasklists.html")
+
+
+
+
 
 
 
