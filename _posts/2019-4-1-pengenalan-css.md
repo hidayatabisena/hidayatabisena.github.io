@@ -43,10 +43,12 @@ selector {
 ```
 
 Keterangan:
-selector itu yang di HTML. Contohnya: <H1>, <body>, <span>, <ul>, <table>, dsb
+selector itu yang di HTML. Contohnya: "<H1>", "<body>", "<span>", "<ul>", "<table>", dsb.
+  
 property itu adalah style css yang ingin di terapkan kedalam suatu selector. Didalam suatu selector, bisa ada banyak property. 
   
 --  
+
 Mari kita lihat contohnya yah:
 
 Saya ingin membuat semua element H1 di HTML, berwarna biru dan ukuran font-nya 24 pixel. 
