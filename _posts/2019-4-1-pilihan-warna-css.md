@@ -52,7 +52,8 @@ Save. Kemudian buka lagi file websatu.html, hasilnya menjadi seperti ini:
 ![File websatu.html dengan style.css](/images/colorcss.png "File websatu.html dengan style.css")
 
 
-
+Silahkan bereksperimen dengan warna CSS Hexadecimal, RGB, dan RGBA. 
+Referensi warna bisa dicari di website: https://www.webfx.com/web-design/color-picker/
 
 
 
