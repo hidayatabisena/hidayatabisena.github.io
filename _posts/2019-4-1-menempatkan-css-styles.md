@@ -78,8 +78,8 @@ Mari kita praktekkan! Kita akan styling file websatu.html dengan CSS, menggunaka
 
 Langkah-langkahnya:
 
-1. Buat file di Visual Studio Code, beri nama style.css atau kasih nama apa aja bebas, asalkan akhirannya ".css"
-2. Isi file style.css tersebut dengan script berikut:
+- Buat file di Visual Studio Code, beri nama style.css atau kasih nama apa aja bebas, asalkan akhirannya ".css"
+- Isi file style.css tersebut dengan script berikut:
 
 ```css
 h1 {
@@ -95,13 +95,13 @@ h4 {
 }
 ```
 
-3. Simpan file tersebut di direktori yang sama dengan file websatu.html
-4. Buka file websatu.html, tambahkan script berikut tepat dibawah tag <title>:
+- Simpan file tersebut di direktori yang sama dengan file websatu.html
+- Buka file websatu.html, tambahkan script berikut tepat dibawah tag <title>:
 
 ```html
 <link rel="stylesheet" href="style.css">
 ```
-5. Save file websatu.html. Lihat hasilnya jadi seperti ini:
+- Save file websatu.html. Lihat hasilnya jadi seperti ini:
 
 ![File websatu.html dengan style.css](/images/stylecss.png "File websatu.html dengan style.css")
 
