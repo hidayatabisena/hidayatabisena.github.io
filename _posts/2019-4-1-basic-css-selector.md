@@ -115,6 +115,52 @@ Hasilnya akan menjadi seperti ini:
 ![File tasklists.html](/images/idselector.png "ID selector pada tasklists.html")
 
 
+### Class Selector
+Hampir sama dengan selector ID, selector Class digunakan untuk memilih elemen berdasarkan nama class yang diberikan. Selektor class ditandai dengan tanda titik "."
+
+Ubah file tasklists.html pada tag "li: Membuat laporan keuangan" dan "li: Mengisi absensi" menjadi seperti ini:
+
+```html
+    <ul>
+        <li class="completed">
+            <input type="checkbox">Membuat laporan keuangan
+        </li>
+        <li class="completed">
+            <input type="checkbox">Mengisi absensi
+        </li>
+        <li id="special">
+            <input type="checkbox">Mengirimkan paket dokumen
+        </li>
+    </ul>
+```
+Kita boleh kasih nama lain misalnya li class="Finished".
+Pada contoh kali ini, kita gunakan nama class nya: li class="completed".
+
+Sekarang buka file task.css, lalu tambahkan script berikut:
+
+```css
+.completed {
+    text-decoration: line-through;
+}
+```
+
+Sebelum melihat hasilnya, pada file tasklist.html tambahkan atribut "checked" pada tag input type="checkbox"
+Seperti ini:
+
+```html
+        <li class="completed">
+            <input type="checkbox" checked>Membuat laporan keuangan
+        </li>
+        <li class="completed">
+            <input type="checkbox" checked>Mengisi absensi
+        </li>
+```
+
+Save files, lalu lihat hasilnya menjadi seperti ini:
+
+![File tasklists.html](/images/selectorclass.png "Class selector pada tasklists.html")
+
+
 
 
 
